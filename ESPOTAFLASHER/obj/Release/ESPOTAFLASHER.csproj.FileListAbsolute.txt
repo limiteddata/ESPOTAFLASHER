@@ -1,0 +1,17 @@
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\bin\Release\ESPOTAFLASHER.exe.config
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\bin\Release\ESPOTAFLASHER.exe
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\bin\Release\ESPOTAFLASHER.pdb
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.ESPOTAFLASHER.resources
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.Properties.Resources.resources
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.csproj.GenerateResource.cache
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.csproj.CoreCompileInputs.cache
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.exe
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.pdb
+D:\ESPOTAFLASHER\ESPOTAFLASHER\bin\Release\ESPOTAFLASHER.exe.config
+D:\ESPOTAFLASHER\ESPOTAFLASHER\bin\Release\ESPOTAFLASHER.exe
+D:\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.csprojAssemblyReference.cache
+D:\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.ESPOTAFLASHER.resources
+D:\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.Properties.Resources.resources
+D:\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.csproj.GenerateResource.cache
+D:\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.csproj.CoreCompileInputs.cache
+D:\ESPOTAFLASHER\ESPOTAFLASHER\obj\Release\ESPOTAFLASHER.exe

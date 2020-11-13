@@ -1,0 +1,10 @@
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\bin\Debug\ESPOTAFLASHER.exe.config
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\bin\Debug\ESPOTAFLASHER.exe
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\bin\Debug\ESPOTAFLASHER.pdb
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Debug\ESPOTAFLASHER.csprojAssemblyReference.cache
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Debug\ESPOTAFLASHER.Properties.Resources.resources
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Debug\ESPOTAFLASHER.csproj.GenerateResource.cache
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Debug\ESPOTAFLASHER.csproj.CoreCompileInputs.cache
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Debug\ESPOTAFLASHER.exe
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Debug\ESPOTAFLASHER.pdb
+C:\Users\adroi\source\repos\ESPOTAFLASHER\ESPOTAFLASHER\obj\Debug\ESPOTAFLASHER.ESPOTAFLASHER.resources
