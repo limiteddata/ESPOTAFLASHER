@@ -1,6 +1,6 @@
 **ESPOTAFLASHER**
 
-This flasher is a implementation of the espota.py(https://github.com/esp8266/Arduino/blob/master/tools/espota.py) in C# and inspired by https://github.com/shehrozeee/espotacs.
+This flasher is a implementation of the espota.py(https://github.com/esp8266/Arduino/blob/master/tools/espota.py) in C# and inspired from https://github.com/shehrozeee/espotacs.
 This works with both esp32 and esp8266.
 
 how to use :
